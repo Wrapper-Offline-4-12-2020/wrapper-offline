@@ -20,7 +20,7 @@ If you're getting errors that prevent Node.js or http-servers from running, they
 If your issue is not listed here, look at the next section.
 
 ## Contact / Bug Report / Feature Suggestion
-You can join the [Discord server](https://discord.gg/Kf7BzSw), message benson#0411 on Discord, or email mailbenson@protonmail.com to get in contact with me.
+You can join the [Discord server](https://discord.gg/Kf7BzSw), message benson#0411 on Discord, or email benson999@gmail.com to get in contact with me.
 
 ## Dependencies
 This program relies on Flash, Node.js and http-server to work properly. They have been included with the project (utilities folder) to ensure full offline operation and will be installed if missing, but you are given the option to check for the latest versions. The "wrapper" folder and http-server have their own dependencies, but they are included.
